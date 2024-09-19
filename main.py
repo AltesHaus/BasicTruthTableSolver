@@ -1,18 +1,5 @@
 from itertools import product
 
-
-def and_operator(val1: bool, val2: bool) -> bool:
-    return val1 and val2
-
-
-def or_operator(val1: bool, val2: bool) -> bool:
-    return val1 or val2
-
-
-def not_operator(val: bool) -> bool:
-    return not val
-
-
 def eval_statement(statement: str, A: bool, B: bool, C: bool = None, D: bool = None) -> bool:
     local_vars = {'A': A, 'B': B, 'C': C, 'D': D}
     try:
