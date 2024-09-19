@@ -18,12 +18,12 @@ Ensure you have the following installed:
 
 1. Clone the repository to your local machine or download the `main.py` file.
     ```bash
-    git clone https://github.com/your-repo/logical-expression-truth-table.git
+    git clone https://github.com/AltesHaus/BasicTruthTableSolver.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd logical-expression-truth-table
+    cd BasicTruthTableSolver
     ```
 
 ## How to Use
